@@ -17,10 +17,9 @@ sections:
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      Dit is mijn portfolio – een plek waar je meer te weten komt over mij, waar
-      je inzicht krijgt bij projecten die ik heb gedaan, mijn creaties kunt
-      bekijken, en inzicht krijgt in mijn professionele ervaringen en
-      competenties.
+      Mijn naam is Joep en dit is mijn portfolio – een plek waar je meer te
+      weten komt over mij, projecten die ik heb gedaan en ervaringen die ik heb
+      opgelopen.
     styles:
       self:
         height: auto
