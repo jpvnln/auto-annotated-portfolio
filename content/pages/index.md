@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Ik ben creatief, probleemoplossend, fanatiek en een hele hoop andere
+      indrukwekkende titels en termen.
     subtitle: >-
       Mijn naam is Joep en dit is mijn portfolio – een plek waar je meer te
       weten komt over mij, projecten die ik heb gedaan en ervaringen die ik heb
