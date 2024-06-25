@@ -80,7 +80,7 @@
             "phoneNumber": "850-123-5021",
             "phoneAltText": "My phone number",
             "email": "thisismyemail.@myemail.me",
-            "emailAltText": "Joepvanloon@me.com",
+            "emailAltText": "",
             "address": "Rotterdam",
             "addressAltText": "My address"
         },
