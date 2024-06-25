@@ -19,7 +19,7 @@ sections:
     subtitle: >-
       Mijn naam is Joep en dit is mijn portfolio – een plek waar je meer te
       weten komt over mij, projecten die ik heb gedaan en ervaringen die ik heb
-      opgelopen.
+      opgelo.
     styles:
       self:
         height: auto
