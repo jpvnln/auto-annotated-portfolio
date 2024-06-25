@@ -52,7 +52,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: bekijk al mijn projecten
         url: /projects
     showDate: false
     showDescription: true
